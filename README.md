@@ -24,7 +24,7 @@ http:localhost:8888 でプレビュー画面が表示されます。
 
 ### Qiitaへの投稿
 
-masterブランチにpushすると、自動的にQiitaへ投稿されます。
+mainブランチにpushすると、自動的にQiitaへ投稿されます。
 
 ### 投稿記事の同期
 
